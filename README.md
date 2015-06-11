@@ -1,0 +1,2 @@
+# TestMasterWithVS
+测试具有主master分支下的VS推送情况
